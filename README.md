@@ -1,7 +1,7 @@
 
 # Instructions
 
-Live the life of your dreams (or your nightmares) with
+Live the life of your dreams (or your nightmares) in your terminal window with
 the Game of LIFE! Here are some basic instructions to
 get you started.
 
