@@ -1,0 +1,329 @@
+{
+"players left": [{
+"name": "b",
+"career": "Null",
+"house": "Null",
+"salary": "Null",
+"tiles": [],
+"family": [],
+"position": "0",
+"balance": "10000",
+"retired": "false",
+"loans": "4",
+"home_insure": "false",
+"car_insure": "false",
+"college": "true",
+"stocks": []
+},{
+"name": "a",
+"career": "Null",
+"house": "Null",
+"salary": "Null",
+"tiles": [],
+"family": [],
+"position": "0",
+"balance": "10000",
+"retired": "false",
+"loans": "4",
+"home_insure": "false",
+"car_insure": "false",
+"college": "true",
+"stocks": []
+},],
+"players": [
+{
+"name": "b",
+"career": "Null",
+"house": "Null",
+"salary": "Null",
+"tiles": [],
+"family": [],
+"position": "0",
+"balance": "10000",
+"retired": "false",
+"loans": "4",
+"home_insure": "false",
+"car_insure": "false",
+"college": "true",
+"stocks": []
+},{
+"name": "a",
+"career": "Null",
+"house": "Null",
+"salary": "Null",
+"tiles": [],
+"family": [],
+"position": "0",
+"balance": "10000",
+"retired": "false",
+"loans": "4",
+"home_insure": "false",
+"car_insure": "false",
+"college": "true",
+"stocks": []
+},],
+"careers": [
+{
+"name": "ACCOUNTANT",
+"effect": "YOUR W-4 IS MINE!
+When a player lands on a 'taxes
+due' square, collect an extra 30%
+of their taxes from the bank on
+your turn.",
+"degree": "false"
+},{
+"name": "ATHLETE",
+"effect": "NOT ANOTHER LAP!
+Spin again if you don't like
+the square you land on (you
+can do this twice at most).",
+"degree": "false"
+},{
+"name": "TEACHER",
+"effect": "THANKS FOR THE CURVE!
+Collect $10000 if your current
+LIFE tile count is a multiple
+of 4.",
+"degree": "false"
+},{
+"name": "POLICE OFFICER",
+"effect": "OCAML LIVES MATTER!
+Collect $5,000 from any player
+who speeds, i.e. spins a 10.",
+"degree": "false"
+},{
+"name": "ENTERTAINER",
+"effect": "THE NEXT CARLY RAE JEPSEN!
+If two 8s, 9s, or 10s are spun
+in a row, collect $100,000 on
+your turn.",
+"degree": "false"
+},{
+"name": "ARTIST",
+"effect": "FINALLY I CAN EAT!
+Collect $10,000 from any player
+who buys your art, i.e. spins a 1.",
+"degree": "false"
+},{
+"name": "BUSINESSPERSON",
+"effect": "SNAKE IT UP!
+Collect $20000 from any player who
+lands on an accident square
+(except yourself, of course).",
+"degree": "true"
+},{
+"name": "COMPUTER SCIENTIST",
+"effect": "GET IN THE QUEUE!
+Collect $5000 from any player who
+begs you to debug their OCaml code,
+i.e. spins a 3 or 5.",
+"degree": "true"
+},{
+"name": "DOCTOR",
+"effect": "HOSPITAL FEES!
+After position #40, add $3000
+every time you collect money
+from the bank.",
+"degree": "true"
+},],
+"salaries": [
+{
+"amt": "30000",
+"taxes": "10000",
+"degree": "false"
+},{
+"amt": "60000",
+"taxes": "25000",
+"degree": "true"
+},{
+"amt": "55000",
+"taxes": "22000",
+"degree": "false"
+},{
+"amt": "45000",
+"taxes": "18000",
+"degree": "false"
+},{
+"amt": "50000",
+"taxes": "20000",
+"degree": "false"
+},{
+"amt": "70000",
+"taxes": "30000",
+"degree": "true"
+},{
+"amt": "80000",
+"taxes": "35000",
+"degree": "true"
+},{
+"amt": "40000",
+"taxes": "15000",
+"degree": "false"
+},{
+"amt": "90000",
+"taxes": "45000",
+"degree": "true"
+},{
+"amt": "25000",
+"taxes": "7000",
+"degree": "false"
+},],
+"houses": [
+{
+"name": "DUTCH COLONIAL",
+"desc": "From Wooden Shoe Realty.
+8 spacious rooms w/ study, den.
+Solar-heated, wood-burning stoves,
+solid oak floors.",
+"price": "120000",
+"insurance": "30000"
+},{
+"name": "FARMHOUSE",
+"desc": "From Euell B. Milken Realty.
+Located on 50 rolling acres!
+Garbanzo bean crops, prizewinning
+pigs & dairy cows. Spacious barn 
+w/ silo.",
+"price": "160000",
+"insurance": "40000"
+},{
+"name": "BEACH HOUSE",
+"desc": "From High Winds Realty.
+Only 50 yards from Monsoon Beach.
+Sun deck, boat dock, hurricane
+wall. Hurry while it lasts!",
+"price": "140000",
+"insurance": "35000"
+},{
+"name": "COZY CONDO",
+"desc": "From Sandwich Inn Realty.
+This beautiful 2-level condominium
+comes complete with gourmet kitchen
+and rooftop garden.",
+"price": "100000",
+"insurance": "25000"
+},{
+"name": "SPLIT-LEVEL (LITERALLY)",
+"desc": "From Faultline Realty.
+Was one level before the quake.
+Now a real fixer-upper for
+adventurous folks!",
+"price": "10000",
+"insurance": "40000"
+},{
+"name": "LOG CABIN",
+"desc": "From Rod N. Realty.
+Rustic charm in a woodland setting.
+Loft w/ skylight, stone fireplace.
+Near Lake Ketcheefishee.",
+"price": "80000",
+"insurance": "20000"
+},{
+"name": "TUDOR",
+"desc": "From Tutime Realty.
+Tufloors, tubaths, a tucar garage.
+Perfect for tupeople with tukids
+or more.",
+"price": "180000",
+"insurance": "45000"
+},{
+"name": "VICTORIAN",
+"desc": "From Blithering Heights Realty.
+Library, parlor, servants' quarters,
+marble fireplaces, wraparound porch.",
+"price": "200000",
+"insurance": "50000"
+},{
+"name": "MOBILE HOME",
+"desc": "From Deals on Wheels Realty.
+Aluminum-sided little beauty!
+Great location, lovely view. 
+Trailer hitch included.",
+"price": "60000",
+"insurance": "15000"
+},],
+"tiles": [
+{
+"desc": "Pulitzer Prize",
+"amt": "150000"
+},{
+"desc": "Cure the Common Cold",
+"amt": "150000"
+},{
+"desc": "Nobel Peace Prize",
+"amt": "180000"
+},{
+"desc": "Humanitarian Award",
+"amt": "75000"
+},{
+"desc": "Win Dance Contest",
+"amt": "50000"
+},{
+"desc": "Find New Energy Source",
+"amt": "100000"
+},{
+"desc": "Open Health Food Chain",
+"amt": "75000"
+},{
+"desc": "Create New Teaching Method",
+"amt": "75000"
+},{
+"desc": "Compose a Symphony",
+"amt": "120000"
+},{
+"desc": "Write Great American Novel",
+"amt": "100000"
+},{
+"desc": "Invent New Ice Cream Flavor",
+"amt": "50000"
+},{
+"desc": "Family Horse Wins Derby",
+"amt": "100000"
+},{
+"desc": "Swim the English Channel",
+"amt": "50000"
+},{
+"desc": "Run World Record Mile",
+"amt": "50000"
+},{
+"desc": "Solution to Pollution",
+"amt": "100000"
+},{
+"desc": "Design New Company Logo",
+"amt": "50000"
+},{
+"desc": "Paint a Masterpiece",
+"amt": "150000"
+},{
+"desc": "Save Endangered Species",
+"amt": "100000"
+},{
+"desc": "Climb Mt. Everest",
+"amt": "50000"
+},{
+"desc": "Build a Better Mousetrap",
+"amt": "150000"
+},{
+"desc": "Discover New Planet",
+"amt": "75000"
+},{
+"desc": "Invent New Sport",
+"amt": "75000"
+},{
+"desc": "Build New Functional Programming Language",
+"amt": "103110"
+},{
+"desc": "Invent New Sport",
+"amt": "75000"
+},{
+"desc": "Run for President",
+"amt": "150000"
+},{
+"desc": "Toy Invention Sells Big",
+"amt": "50000"
+},],
+"stocks": [
+7,4,9,5,6,3,10,1,2,8,]
+}"owned_stocks": [
+]
+}
